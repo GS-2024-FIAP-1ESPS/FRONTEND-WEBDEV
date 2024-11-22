@@ -3,6 +3,8 @@ Projeto de sustentabilidade desenvolvido na disciplina de Python para Global Sol
 
 ## Plataforma Digital para Energia Renovável e Sustentabilidade Comunitária 🌱
 
+## Link website no ar ✅
+https://gs-2024-fiap-1esps.github.io/FRONTEND-WEBDEV/greenenergy.html 
 ---
 
 ## Integrantes 👥
